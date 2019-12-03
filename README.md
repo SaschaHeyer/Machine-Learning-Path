@@ -4,4 +4,4 @@
 ### TensorFlow in Practice Specialization - https://www.coursera.org/specializations/tensorflow-in-practice
 
 # Software-Development-Path
-### Data Structures and Algorithms - https://www.coursera.org/specializations/data-structures-algorithms?
+###Data Structures and Algorithms - https://www.coursera.org/specializations/data-structures-algorithms?
