@@ -5,7 +5,7 @@
 
 # Software-Development-Path
 ## Required for this path
-- Git Version Control 
+- Git Version Control (https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF&index=1)
 - Basic Terminal Usage 
 - Data Structures and Algorithms 
 - SOLID, KISS, YAGNI 
