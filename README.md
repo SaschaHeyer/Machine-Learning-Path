@@ -5,5 +5,15 @@
 
 # Software-Development-Path
 ## Required for this path
-##### - Git Version Control - Basic Terminal Usage - Data Structures and Algorithms - SOLID, KISS, YAGNI - GitHub - Licenses - Semantic versioning - SSH - HTTP/HTTPS - APIS - Design Patterns - Character Encoding
+- Git Version Control 
+- Basic Terminal Usage 
+- Data Structures and Algorithms 
+- SOLID, KISS, YAGNI 
+- GitHub - Licenses 
+- Semantic versioning 
+- SSH 
+- HTTP/HTTPS 
+- APIS 
+- Design Patterns 
+- Character Encoding
 ### Data Structures and Algorithms - https://www.coursera.org/specializations/data-structures-algorithms?
